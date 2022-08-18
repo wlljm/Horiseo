@@ -1,7 +1,7 @@
 # Horiseon
 Refactoring, modify, to meet a certain standards or implement new technology. 
 To make the website more accesible for everyone. 
-Adhere to scout rule, leave code cleaner
+Adhere to scout rule, leave code cleaner.
 So website is optimized for search engines 
 
 
