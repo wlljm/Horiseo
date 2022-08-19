@@ -85,22 +85,22 @@ aside.benefits {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+article.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+article.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost {
+article.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-h3 {
+article.h3 {
     margin-bottom: 10px;
     text-align: center; 
     margin-bottom: 10px;
@@ -109,25 +109,25 @@ h3 {
     text-align: center;
 }
 
-.benefit-lead img {
+article.benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+article.benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
+article.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization {
+section.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -136,7 +136,7 @@ h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {
+section.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,7 +145,7 @@ h3 {
     color: #ffffff;
 }
 
-.social-media-marketing {
+section.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -154,19 +154,19 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+section.search-engine-optimization img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+section.online-reputation-management img {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+section.social-media-marketing img {
     max-height: 200px;
 }
 
-.h2 {
+section.h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
